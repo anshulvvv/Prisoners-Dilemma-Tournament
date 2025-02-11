@@ -5,4 +5,4 @@ Team Members -
 -> Aditya Patel  
 -> Anshul Maheshwari  
 -> Samraddh Saxena  
--> Guatam Garg  
+-> Gautam Garg  
